@@ -1,0 +1,15 @@
+{% extends "PlantID/layout.html" %}
+{% block title %}
+Multiple Loci Blast
+{% endblock %}
+
+{% block content %}
+    <br>
+    <br>
+    <h1>Multiple Loci Blast</h1>
+    <form method="POST" class="multiple_loci_blast_form">{% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit" class="save btn btn-default">Blast</button>
+    </form>
+
+{% endblock %}

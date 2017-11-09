@@ -1,0 +1,34 @@
+{% extends "PlantID/layout.html" %}
+{% block title %}
+Plant-ID | Welcome
+{% endblock %}
+
+{% block content %}
+    <br>
+    <br>
+    <h1>Welcome</h1>
+    <hr>
+    <p class="lead"> <b>Microbe-ID </b>is a toolbox that can readily be customized for any taxonomic group or species for sequence based identification of species or marker-based identification of strains.</p>
+
+    <p><b>Microbe-ID</b> aims to: </p>
+    <ul>
+        <li> Outline a method for development of a species and strain identification website using existing open source, online resources.</li>
+        <li> Integrate existing population genetic analyses and visualizations into the genotype identification tool in order to improve genotype diagnostic capabilities.</li>
+    </ul>
+
+    <p>This site provides all code and applications necessary for creating a website for species identification or strain genotyping.</p>
+
+    <h3>Components</h3>
+
+	<p><b>Microbe-ID</b> is comprised by two main applications: <b><a href="./seq-id.html">Sequence-ID</a></b> and <b><a href="./geno-id.html">Genotype-ID</a></b>.
+	<ul>
+		<li><b>Sequence-ID</b> allows identification of species by blasting a query sequence for any locus of interest against a custom reference sequence database using <code>BLAST</code></li>
+		<li><b>Genotype-ID</b> allows placement of an unknown genotype in either a minimum spanning network or dendrogram with bootstrap support comparing the queue against an user-created reference database using <code>R</code> and a suite of R packages designed for molecular markers</li>
+	</ul>
+	<p><b>Microbe-ID</b> groups these two applications in a HTML5 framework based on <a href="http://getbootstrap.com">Bootstrap</a> that links both applications into a simple, web-ready site to be deployed locally or in a server.</p>
+    <hr>
+    <p class=lead> Visit the project page in Github for details in requirements, installation and deployment of <b>Microbe-ID</b> at <a href="https://github.com/grunwaldlab/Microbe-ID">http://github.com/grunwaldlab/Microbe-ID</a></p>
+    <div id="push"></div>
+{% endblock %}
+
+

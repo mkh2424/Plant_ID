@@ -1,0 +1,26 @@
+--------------------------------------------------------------------
+Result Summary
+--------------------------------------------------------------------
+Sample name : rbcL-a
+Loci name : rbcL-a
+Estimated species : retroflexus Amaranthus
+Other specie(s) with same genus : {'Amaranthus retroflexus'}
+Reverse complemented? : No
+--------------------------------------------------------------------
+Hit summary
+--------------------------------------------------------------------
+      Query: rbcL-a_rbcL-a 
+        Hit: gi|1184799352|gb|KX678667.1| Amaranthus retroflexus voucher HERB...
+Query range: [0:544] (1)
+  Hit range: [3:547] (1)
+Quick stats: evalue 0; bitscore 982.32
+  Fragments: 1 (544 columns)
+     Query - GTTGGATTTAAAGCTGGTGTTAAAGATTACCGATTGACTTATTATACTCCTGAGTATGA~~~TGAAT
+             |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||~~~|||||
+       Hit - GTTGGATTTAAAGCTGGTGTTAAAGATTACCGATTGACTTATTATACTCCTGAGTATGA~~~TGAAT
+--------------------------------------------------------------------
+Alignment detail
+--------------------------------------------------------------------
+GTTGGATTTAAAGCTGGTGTTAAAGATTACCGATTGACTTATTATACTCCTGAGTATGAAACCCTAGATACTGATATCTTGGCAGCATTCCGAGTAAGTCCTCAACCTGGAGTTCCACCTGAAGAAGCGGGGGCTGCAGTAGCTGCCGAATCTTCTACTGGTACATGGACAAGTGTATGGACCGACGGACTTACCAATCTTGATCGTTACAAAGGACGATGCTACAACATCGAGCCCGTTGCTGGAGAAGAAAATCAATATATTTGTTATGTAGCGTATCCTTTAGACCTTTTTGAAGAAGGTTCTGTTACTAACATGTTTACTTCCATTGTGGGTAACGTATTTGGGTTCAAAGCTTTGCGTGCTCTACGTTTGGAAGATTTGCGAATCCCTGTTGCTTATGTCAAAACTTTCCAAGGCCCGCCTCACGGTATCCAGGTTGAAAGAGATAAATTGAACAAGTACGGTCGTCCCCTATTGGGATGCACTATTAAACCAAAATTGGGGTTATCCGCTAAAAACTATGGTCGAGCATGTTATGAAT - rbcL-a_rbcL-a
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GTTGGATTTAAAGCTGGTGTTAAAGATTACCGATTGACTTATTATACTCCTGAGTATGAAACCCTAGATACTGATATCTTGGCAGCATTCCGAGTAAGTCCTCAACCTGGAGTTCCACCTGAAGAAGCGGGGGCTGCAGTAGCTGCCGAATCTTCTACTGGTACATGGACAAGTGTATGGACCGACGGACTTACCAATCTTGATCGTTACAAAGGACGATGCTACAACATCGAGCCCGTTGCTGGAGAAGAAAATCAATATATTTGTTATGTAGCGTATCCTTTAGACCTTTTTGAAGAAGGTTCTGTTACTAACATGTTTACTTCCATTGTGGGTAACGTATTTGGGTTCAAAGCTTTGCGTGCTCTACGTTTGGAAGATTTGCGAATCCCTGTTGCTTATGTCAAAACTTTCCAAGGCCCGCCTCACGGTATCCAGGTTGAAAGAGATAAATTGAACAAGTACGGTCGTCCCCTATTGGGATGCACTATTAAACCAAAATTGGGGTTATCCGCTAAAAACTATGGTCGAGCATGTTATGAAT - gi|1184799352|gb|KX678667.1|

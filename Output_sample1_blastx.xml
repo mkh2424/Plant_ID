@@ -1,0 +1,26 @@
+--------------------------------------------------------------------
+Result Summary
+--------------------------------------------------------------------
+Sample name : sample1
+Loci name : rbcL-a
+Estimated species : carboxylase/oxygenase ribulose-1,5-bisphosphate
+Other specie(s) with same genus : {'ribulose-1,5-bisphosphate carboxylase/oxygenase', 'ribulose 1,5-bisphosphate'}
+Reverse complemented? : Yes
+--------------------------------------------------------------------
+Hit summary
+--------------------------------------------------------------------
+      Query: sample1_rbcL-a 
+        Hit: gi|227809953|gb|ACP41199.1| ribulose-1,5-bisphosphate carboxylas...
+Query range: [0:543] (1)
+  Hit range: [10:191] (0)
+Quick stats: evalue 2.7e-121; bitscore 330.87
+  Fragments: 1 (181 columns)
+     Query - VGFKAGVKDYRLTYYTPEYETLDTDILAAFRVSPQPGVPPEEAGAAVAAESSTGTWTSV~~~RACYE
+             VGFKAGVK+Y+LTYYTPEYET DTDILAAFRV+PQPGVPPEEAGAAVAAESSTGTWT+V~~~RA YE
+       Hit - VGFKAGVKEYKLTYYTPEYETKDTDILAAFRVTPQPGVPPEEAGAAVAAESSTGTWTTV~~~RAVYE
+--------------------------------------------------------------------
+Alignment detail
+--------------------------------------------------------------------
+VGFKAGVKDYRLTYYTPEYETLDTDILAAFRVSPQPGVPPEEAGAAVAAESSTGTWTSVWTDGLTNLDRYKGRCYNIEPVAGEENQYICYVAYPLDLFEEGSVTNMFTSIVGNVFGFKALRALRLEDLRIPVAYVKTFQGPPHGIQVERDKLNKYGRPLLGCTIKPKLGLSAKNYGRACYE - sample1_rbcL-a
+VGFKAGVK+Y+LTYYTPEYET DTDILAAFRV+PQPGVPPEEAGAAVAAESSTGTWT+VWTDGLT+LDRYKGRCY+IEPV GE +QYICYVAYPLDLFEEGSVTNMFTSIVGNVFGFKALRALRLEDLRIP AY+KTFQGPPHGIQVERDKLNKYGRPLLGCTIKPKLGLSAKNYGRA YE
+VGFKAGVKEYKLTYYTPEYETKDTDILAAFRVTPQPGVPPEEAGAAVAAESSTGTWTTVWTDGLTSLDRYKGRCYHIEPVPGEADQYICYVAYPLDLFEEGSVTNMFTSIVGNVFGFKALRALRLEDLRIPTAYIKTFQGPPHGIQVERDKLNKYGRPLLGCTIKPKLGLSAKNYGRAVYE - gi|227809953|gb|ACP41199.1|

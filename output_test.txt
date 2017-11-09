@@ -1,0 +1,12 @@
+Sample_1
+rbcL-a gi|1184799352|gb|KX678667.1| Amaranthus retroflexus voucher HERB0013 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast 1088 0
+Other speicies with same genus : {'Amaranthus hypochondriacus', 'Amaranthus caudatus', 'Amaranthus spinosus', 'Amaranthus dubius', 'Amaranthus hybridus', 'Amaranthus retroflexus', 'Amaranthus asplundii', 'Amaranthus quitensis', 'Amaranthus powellii'}
+rpoC1 gi|156535326|gb|EF590583.1| Amaranthus hybridus voucher NMNH Killip 40186 RNA polymerase C (rpoC1) gene, partial cds; chloroplast 812 0
+Other speicies with same genus : {'Amaranthus hypochondriacus', 'Amaranthus albus', 'Amaranthus spinosus', 'Amaranthus hybridus', 'Amaranthus palmeri', 'Amaranthus retroflexus', 'Amaranthus arenicola', 'Amaranthus blitum', 'Amaranthus tricolor', 'Amaranthus powellii', 'Amaranthus viridis'}
+trnH-psbA gi|1241841371|gb|MF143753.1| Amaranthus hybridus voucher Li ZY, Fu LZ, Xu SZ, Fu JG 13489 PsbA (psbA) gene, partial cds; psbA-trnH intergenic spacer, complete sequence; and tRNA-His (trnH) gene, partial sequence; chloroplast 562 0
+Other speicies with same genus : {'Amaranthus hypochondriacus', 'Amaranthus tuberculatus', 'Amaranthus albus', 'Amaranthus spinosus', 'Amaranthus palmeri', 'Amaranthus hybridus', 'Amaranthus dubius', 'Amaranthus retroflexus', 'Amaranthus blitum', 'Amaranthus tricolor', 'Amaranthus deflexus', 'Amaranthus viridis'}
+--Matching comparison matrix--
+              rbcL-a     rpoC1 trnH-psbA
+    rbcL-a         =     Genus     Genus
+     rpoC1     Genus         =   Species
+ trnH-psbA     Genus   Species         =

@@ -1,0 +1,17 @@
+{% extends "PlantID/layout.html" %}
+{% block title %}
+Single Loci Blast
+{% endblock %}
+
+{% block content %}
+    <br>
+    <br>
+    <h1>Single Locus Blast</h1>
+    <form method="POST" class="single_loci_blast_form">{% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit" class="save btn btn-default">Blast</button>
+    </form>
+
+{% endblock %}
+
+
